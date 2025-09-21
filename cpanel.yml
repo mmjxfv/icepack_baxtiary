@@ -1,0 +1,7 @@
+deployment:
+  tasks:
+    - export GIT_REPO="https://github.com/mmjxfv/ice-pack-menu00.git"
+    - export BRANCH="main"
+    - cd /home/bestvxoh/public_html/test
+    - if [ ! -d .git ]; then git clone --branch $BRANCH $GIT_REPO . ; else git pull origin $BRANCH ; fi
+    - echo "Deployment complete!"
