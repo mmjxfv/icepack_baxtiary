@@ -1,0 +1,362 @@
+<html class="no-js" lang="en"><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta id="token" name="csrf-token" content="Z9xiMvOJfcIcKbInTOI3RfMifr6zvNU9D3J0P7il" data-token="Z9xiMvOJfcIcKbInTOI3RfMifr6zvNU9D3J0P7il">
+      <title>Ice Pack</title>
+      <link rel="stylesheet" href="../icepack/bootstrap.min.css">
+      <link rel="icon" href="../icepack.ico" type="image/png" sizes="16x16">   </head>
+   <body class="init kr">
+      <div class="page-wrap page__menu">
+         <div class="logo">
+    
+            <img src="../icepack/icelogo.svg">
+			<h5 class="ff" style="font-size: 30px;">تامه&zwnj;كانی ئایس پاك</h5>
+			</div>
+         <div class="menu__page__content">
+            <div class="container">
+               <div class="row10 u-flex" data-sticky_parent="">
+                  <div class="col-content">
+                     
+                     
+
+
+                              <div class="sec-head u-flex products  u-flex--content-between u-flex--item-center u-flex--wrap">
+                                                                     
+                              <h5 class="flaver">گه‌وره‌<br>5.000</h5>
+                              <h5 class="flaver">ناوه‌ند<br>4.000</h5>
+                              <h5 class="flaver">بچووك<br>3.000</h5>
+
+
+
+                                    <h5 class="flaver">ئێكسترا چه‌ره‌زات<br>1000</h5>
+									<h5 class="flaver">ئێكسترا كرێم<br>500</h5>
+									<h5 class="flaver">ئێكسترا میوه‌<br>500</h5>
+</div>
+
+                        <div class="products u-flex u-flex--wrap">
+                           <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/1.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">لیمۆ</h5>
+                                 </div>
+                              </a>
+                           </div>
+                           <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/2.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">تووت</h5>
+                                 </div>
+                              </a>
+                           </div>
+                                                      <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/3.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">خۆخ</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                                                      <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/4.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">مۆز</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/5.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">فڕاوله‌‌</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/6.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">گندۆره‌</h5>
+                                 </div>
+                              </a>
+                           </div>
+                         
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/7.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">پڕته‌قاڵ</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/8.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">ئه‌ناناس</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/9.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">ڤانێلا</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/10.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">گوێزهندی</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/11.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">ده‌بل فستق</h5>
+                                 </div>
+                              </a>
+                           </div>
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/12.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">فستق</h5>
+                                 </div>
+                              </a>
+                           </div>
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/13.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">كیت كات</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/14.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">ڕه‌ژوو</h5>
+                                 </div>
+                              </a>
+                           </div>
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/15.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">كارامێڵ</h5>
+                                 </div>
+                              </a>
+                           </div>
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/16.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">كه‌كاو</h5>
+                                 </div>
+                              </a>
+                           </div>
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/17.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">نیسكافه‌</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/18.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">شۆكۆلاته‌</h5>
+                                 </div>
+                              </a>
+                           </div>
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/19.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">مۆز فڕاوله‌‌</h5>
+                                 </div>
+                              </a>
+                           </div>
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/20.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">مۆز كه‌كاو</h5>
+                                 </div>
+                              </a>
+                           </div>
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/21.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">كه‌كاو كارامێڵ</h5>
+                                 </div>
+                              </a>
+                           </div>
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/22.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">مۆز كارامێڵ</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/23.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">كۆكتێل 3</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/24.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">كێك ڤانێلا</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/25.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">كێك مۆز</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                          <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/26.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">كێك فستق</h5>
+                                 </div>
+                              </a>
+                           </div>
+
+                           <!-- product -->
+                           <div class="flaver">
+                              <a>
+                                 <figure>
+                                    <img class=" " src="../icepack/f/27.png" alt="">
+                                 </figure>
+                                 <div class="content">
+                                    <h5 class="flverColor">كێك كه‌كاو</h5>
+                                 </div>
+                              </a>
+                           </div>
+                           <!-- product -->
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      
+      
+
+   
+</body></html>
